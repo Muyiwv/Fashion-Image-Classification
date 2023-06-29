@@ -14,7 +14,6 @@ The rapid growth of the e-commerce industry has led to increased adoption of onl
 
 ## Installation
 Clone the repository: git clone https://github.com/your-username/repository-name.git
-Install the required dependencies: pip install -r requirements.txt
 
 ## Usage
 1. Preprocess the Fashion MNIST dataset.
